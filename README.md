@@ -10,7 +10,7 @@ I'm excited to present my evolving portfolio of projects in these areas. In this
 ### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System]()
 ##
 ##  Machine Learning
-### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System]()
+### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System](https://github.com/Micmichael1/MelekSaham)
 - Brief Overview : A indonesian's stock information chatbot using telegram platform that is able to provide learning module, list of indonesian's stock per sector, details data of a company base on stock ticker, real time stock price, and it can answer question regarding indonesian stock given to it.
 - Technology Used : Pycharm, Jupyter Notebook, Python, Pandas, Numpy, Nltk, Sastrawi, Sklearn, Tensorflow, Seaborn, Matplotlib, Requests, Aiogram-telegram-bot
 - Final Results : [MelekSaham_bot](https://t.me/MelekSaham_bot )
