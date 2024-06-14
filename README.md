@@ -7,7 +7,10 @@ I'm excited to present my evolving portfolio of projects in these areas. In this
 ### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System]()
 ##
 ##  Data Engineering
-### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System]()
+### [Web scraping Wikipedia list of town in the whole world into csv](https://github.com/Micmichael1/web_scraping)
+- Brief Overview : Scraping wikipedia list of each town in each country in the world as well as all the town wikipedia website link into csv.
+- Technology Used : Pycharm, Python, requests, bs4, os, csv
+- Final Results : [kota_link.csv](https://drive.google.com/file/d/1RDRt8vg8lHgqICD5_uQYvGzB17-um5Vy/view?usp=sharing)
 ##
 ##  Machine Learning
 ### [Implementation Of Long Short-Terms Memorys (LSTM) And Integer Sequence Matching In Indonesian Stock Information Chatbot System](https://github.com/Micmichael1/MelekSaham)
