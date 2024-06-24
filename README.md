@@ -5,6 +5,11 @@ I'm excited to present my evolving portfolio of projects in these areas. In this
 ##
 ##  Data Analytics
 ### [Amazing Chocolate 2021-2022 Sales Dashboard Using PowerBI](https://github.com/Micmichael1/data_analysis/tree/main/Amazing%20Chocolate%20Dashboard)
+- Brief Overview : Dashboard containing sales report of a chocolate seller with all its distributor sales fron 2021 - 2022
+- Technology Used : PowerBI, Ms Excel
+- Final results : 
+[Sales Dashboard](https://drive.google.com/file/d/125_5FzEXn0xrsCsmWGF6QuPde_szwQN3/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1siqgdEOfu7-cxCRBpxKYdl44EbVSo2-2/view?usp=sharing)
 ##
 ##  Data Engineering
 ### [Web scraping Wikipedia list of town in the whole world into csv](https://github.com/Micmichael1/web_scraping)
